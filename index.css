@@ -348,7 +348,7 @@ card-info1 {
 }
 
 .container-one {   
-    width: 80%;
+    width: 100%;
     min-height: 100%;
     padding: 25px 0;
     display: flex;
@@ -365,8 +365,7 @@ card-info1 {
     min-height: 300px;
     margin: 10px;
     display: flex;
-    justify-content: flex-start;
-    align-items: flex-end;
+    
     flex-basis: 180px;
 }
 
