@@ -359,11 +359,11 @@ card-info1 {
     background-color: white;
     border: 5px solid black;
     align-items: baseline;
-    max-width: 300px;
+    max-width: 400px;
     min-height: 300px;
     margin: 10px;
     display: flex;
-    
+    overflow: hidden;
     flex-basis: 180px;
 }
 
