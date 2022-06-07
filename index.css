@@ -91,3 +91,87 @@ body {
  }
 
 .navcontainer ul li a
+
+{
+  text-decoration: none;
+
+  padding: .2em 1em;
+
+   color: #fff;
+
+  background-color: #036;
+
+  width: 1200px;
+}
+
+ .navcontainer ul li a:hover
+{
+  color: #fff;
+
+  background-color: #369;
+}
+
+
+.title {
+
+height: 10px;
+
+width: 100px;
+
+margin-top: 15px;
+
+margin-left: 100px;
+	
+}
+
+
+.nav {
+
+    min-width: 500px;
+
+    display: inline;
+
+    list-style-type: none;
+
+    align-items: center;
+
+}
+
+.nav__list {
+
+    width: 150%;
+
+    display: inline;
+
+    
+
+    align-items: center;
+
+    
+
+    margin-top:80px;
+
+    margin-left: 10px;
+
+}
+
+
+
+.nav__link {
+
+    color: rgb(235, 134, 2);
+
+    text-decoration: none;
+
+    font-size: 25px;
+
+}
+
+
+
+.nav__link:hover {
+
+    color: rgb(0, 195, 255);
+
+}
+
