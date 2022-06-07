@@ -106,8 +106,8 @@ body {
 
 }
 .pict1
-{ min-width: 300px;
-  min-height: 300px;
+{ max-width: 300px;
+  max-height: 300px;
 }
 
 .container {
@@ -205,7 +205,7 @@ body {
 {
  height: 60vh; 
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: start;
     align-items: flex-start;
     flex-wrap: wrap;
