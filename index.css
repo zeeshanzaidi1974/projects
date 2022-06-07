@@ -179,7 +179,7 @@ margin-left: 100px;
 
 .container {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: flex-start;
     padding: 20px 5px; 
 
