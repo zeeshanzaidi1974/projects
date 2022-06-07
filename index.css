@@ -216,7 +216,7 @@ body {
 }
 
 .container-one {   
-    width: 130%;
+    width: 100%;
     min-height: 60%;
     padding: 25px 0;
     display: flex;
