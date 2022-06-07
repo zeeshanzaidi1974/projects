@@ -158,6 +158,10 @@ margin-left: 100px;
    color: rgb(0, 195, 255);
 
 }
+.pict1:
+{ min-width: 400px;
+  min-height: 400px;
+}
 
 .container {
     display: flex;
