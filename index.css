@@ -198,6 +198,23 @@ body {
     transform:
         translateX(200px);
 }
+
+ 
+
+.card {
+    background-color: darkcyan;
+    border: 5px solid black;
+    border-radius: 15px;
+    min-width: 320px;
+    min-height: 40px;
+    margin: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    flex-basis: 180px;
+}
+
+
 .flex-example
 {
  height: 60vh; 
@@ -210,19 +227,21 @@ body {
 }
 
 .container-one {   
-    width: 1200px;
+    border: 5px dotted coral;
+    
+    width: 100%;
     min-height: 60%;
     padding: 25px 0;
     display: flex;
    justify-content: start;
     align-items: start-flex;
     flex-wrap: wrap;
-    background-color: white;
+    background-color: aquamarine;
 
 }
 
 .card-one {
-    background-color: white;
+    background-color: darkcyan;
     border: 5px solid black;
     align-items: baseline;
     max-width: 300px;
