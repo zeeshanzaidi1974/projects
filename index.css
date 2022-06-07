@@ -177,3 +177,35 @@ margin-left: 100px;
 
 }
 
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 5px; 
+
+}
+
+.card {
+    max-width: 200px;
+    min-height: 200px;
+    background-color: white;
+    
+    margin: 20px;
+    padding: 10px;
+    display: flex;
+    position: relative;
+}
+.card1 {
+    max-width: 600px;
+    min-height: 200px;
+    background-color: white;
+    
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    position: relative;
+}
+
+
+
+
