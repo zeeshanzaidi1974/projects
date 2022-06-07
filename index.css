@@ -341,3 +341,39 @@ card-info1 {
     transform:
         translateX(200px);
 }
+.flex-example
+{
+ height: 100vh; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+.container-one {   
+    width: 60%;
+    min-height: 100%;
+    padding: 25px 0;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+
+}
+
+.card-one {
+    background-color: white;
+    border: 5px solid black;
+    align-items: baseline;
+    max-width: 400px;
+    min-height: 300px;
+    margin: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    flex-basis: 180px;
+}
+
+
+
