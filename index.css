@@ -343,7 +343,7 @@ card-info1 {
 }
 
 .container-one {   
-    width: 100%;
+    width: 130%;
     min-height: 60%;
     padding: 25px 0;
     display: flex;
@@ -356,8 +356,8 @@ card-info1 {
     background-color: white;
     border: 5px solid black;
     align-items: baseline;
-    max-width: 500px;
-    min-height: 300px;
+    max-width: 600px;
+    min-height: 400px;
     margin: 10px;
     display: flex;
     overflow: hidden;
