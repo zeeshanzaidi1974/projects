@@ -229,8 +229,8 @@ body {
     background-color: white;
     border: 5px solid black;
     align-items: baseline;
-    min-width: 400px;
-    min-height: 400px;
+    min-width: 300px;
+    min-height: 300px;
     margin: 10px;
     display: flex;
     overflow: hidden;
