@@ -313,5 +313,32 @@ card-info1 {
     margin-left: 365px;
     background-color: #A3DC00;
     border-radius: 6px;
-
+   t-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 32px;
+    /* or 200% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    border: none;
+}
+.main-btn1 {
+    width: 152px;
+    height: 64px;
+    margin-top: 2px;
+    margin-left: 365px;
+    background-color: #A3DC00;
+    border-radius: 6px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 32px;
+    /* or 200% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    border: none;
+}
 
