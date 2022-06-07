@@ -219,8 +219,10 @@ margin-left: 100px;
 }
 
 
-
-
+.image {
+  width: 100%;
+  min-height300px;
+}
 
 .main-info {
     max-width: 583px;
