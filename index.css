@@ -205,8 +205,8 @@ body {
  height: 60vh; 
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    justify-content: start;
+    align-items: stretch;
     flex-wrap: wrap;
     
 }
@@ -216,8 +216,8 @@ body {
     min-height: 60%;
     padding: 25px 0;
     display: flex;
-   justify-content: center;
-    align-items: center;
+   justify-content: start;
+    align-items: stretch;
     flex-wrap: wrap;
     background-color: white;
 
