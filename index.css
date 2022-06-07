@@ -340,3 +340,11 @@ card-info1 {
     border: none;
 }
 
+.footer-column-left {
+    transform:
+        translateX(200px);
+}
+.footer-column-middle {
+    transform:
+        translateX(200px);
+}
