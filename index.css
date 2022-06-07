@@ -334,7 +334,7 @@ card-info1 {
 }
 .flex-example
 {
- height: 100vh; 
+ height: 60vh; 
     display: flex;
     flex-direction: column;
     justify-content: start;
@@ -345,7 +345,7 @@ card-info1 {
 
 .container-one {   
     width: 100%;
-    min-height: 80%;
+    min-height: 60%;
     padding: 25px 0;
     display: flex;
     flex-wrap: wrap;
