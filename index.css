@@ -215,7 +215,7 @@ body {
 }
 
 .container-one {   
-    width: 100%;
+    width: 130%;
     min-height: 60%;
     padding: 25px 0;
     display: flex;
@@ -228,8 +228,8 @@ body {
     background-color: white;
     border: 5px solid black;
     align-items: baseline;
-    min-width: 300px;
-    min-height: 300px;
+    max-width: 300px;
+    max-height: 300px;
     margin: 10px;
     display: flex;
     overflow: hidden;
