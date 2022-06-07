@@ -205,18 +205,18 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: start;
-    align-items: stretch;
+    align-items: start-flex;
     flex-wrap: wrap;
     
 }
 
 .container-one {   
-    width: 1000px;
+    width: 1200px;
     min-height: 60%;
     padding: 25px 0;
     display: flex;
    justify-content: start;
-    align-items: stretch;
+    align-items: start-flex;
     flex-wrap: wrap;
     background-color: white;
 
