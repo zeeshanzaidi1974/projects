@@ -214,7 +214,7 @@ body {
 }
 
 
-.flex-example
+.flexexample
 {
  height: 60vh; 
     display: flex;
@@ -225,7 +225,7 @@ body {
     
 }
 
-.container-one {   
+.containerone {   
     border: 5px dotted coral;
     
     width: 100%;
@@ -239,7 +239,7 @@ body {
 
 }
 
-.card-one {
+.cardone {
     background-color: darkcyan;
     border: 5px solid black;
     align-items: baseline;
