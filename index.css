@@ -283,6 +283,7 @@ body {
     justify-content: flex-end;
     align-items: center;
     flex-basis: 180px;
+    overflow: hidden;
 }
 
 .cardb {
@@ -296,6 +297,7 @@ body {
     justify-content: center;
     align-items: stretch;
     flex-basis: 180px;
+    overflow: hidden;
 }
 
 .cardc{
@@ -309,6 +311,7 @@ body {
     justify-content: flex-end;
     align-items: center;
     flex-basis: 180px;
+    overflow: hidden;
 }
 
 
