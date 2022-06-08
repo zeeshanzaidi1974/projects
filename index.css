@@ -279,7 +279,7 @@ body {
     margin: 10px;
     display: flex;
     justify-content: start;
-    align-items: center;
+    align-items: stretch;
     flex-basis: 180px;
     overflow: hidden;
 }
